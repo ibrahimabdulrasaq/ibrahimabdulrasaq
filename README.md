@@ -1,5 +1,5 @@
-## Hi there 👋, I'm Abdulrasaq Ibrahim Ademola
-I am a Data Analyst and Business Intelligence enthusiast with a strong passion for transforming raw data into meaningful insights that drive informed decision-making. I enjoy working across the entire data analytics workflow, from data cleaning and transformation to analysis, visualization, and storytelling.
+## Hi there 👋, I'm Ibrahim Abdulrasaq Ademola
+A Data Analyst and Business Intelligence enthusiast with a strong passion for transforming raw data into meaningful insights that drive informed decision-making. I enjoy working across the entire data analytics workflow, from data cleaning and transformation to analysis, visualization, and storytelling.
 ‎I specialize in analyzing data, building insightful dashboards, and delivering clear, actionable insights that support informed decision-making. My work focuses on turning raw, messy data into structured analysis and compelling visual stories.
 
 ‎I have hands-on experience using:
