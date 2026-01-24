@@ -1,14 +1,4 @@
-## Hi there 👋, I'm Abdulrasaq Ibrahim Ademola</h1>
-‎<h3 align="center">Data Analyst | BI Enthusiast | Turning Data into Actionable Insights</h3><p align="center">
-‎  <img src="https://img.shields.io/badge/Data%20Analytics-green" />
-‎  <img src="https://img.shields.io/badge/Business%20Intelligence-yellow" />
-‎  <img src="https://img.shields.io/badge/Excel-green" />
-‎  <img src="https://img.shields.io/badge/Power BI-yellow" />
-‎  <img src="https://img.shields.io/badge/SQL-green" />
-‎‎</p>
-
-## ‎👨‍💻 About Me
-‎
+## Hi there 👋, I'm Abdulrasaq Ibrahim Ademola
 I am a Data Analyst and Business Intelligence enthusiast with a strong passion for transforming raw data into meaningful insights that drive informed decision-making. I enjoy working across the entire data analytics workflow, from data cleaning and transformation to analysis, visualization, and storytelling.
 ‎I specialize in analyzing data, building insightful dashboards, and delivering clear, actionable insights that support informed decision-making. My work focuses on turning raw, messy data into structured analysis and compelling visual stories.
 
@@ -24,7 +14,7 @@ I am a Data Analyst and Business Intelligence enthusiast with a strong passion f
 ‎I'm continuously learning, building, and improving my analytical skills set and communication skills .
 ‎
 ‎
-## ‎🛠️ Core Skills & Tools
+### ‎🛠️ Core Skills & Tools
 ‎
 ‎<p align="center">
 ‎  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" />
@@ -64,18 +54,19 @@ I am a Data Analyst and Business Intelligence enthusiast with a strong passion f
 ‎
 * ‎Visualized performance across regions and products
 
-> Project dashboards and screenshots are included inside individual repositories. Each project is focused on solving real-world business problems using data. Explore the repositories to see how I approach data problems end-to-end.
+> Each project is focused on solving real-world business problems using data.
 
-‎⭐ **If a project adds value or sparks an idea, feel free to star the repository.**
+> Project dashboards and screenshots are included inside individual repositories.  Explore the repositories to see how I approach data problems end-to-end.
+
+‎⭐ **If a project adds value or sparks an idea, feel free to star the repository or reach out.**
 ‎
-## ‎🤝 Let's Connect
+### ‎🤝 Let's Connect
 
 ‎Things to know about me:
-* ‎🔭I’m currently working on portfolio-ready data analytics projects that deliver actionable insights.
-* 🌱 I’m currently learning to improve my analytical akills and communication skills
+* ‎🔭I’m currently working on building portfolio-ready data analytics projects, improving my SQL querying and optimization skills, and strengthening my data storytelling and communication skills to deliver clear, actionable insights.
 * 👯 I’m looking to collaborate on data analytics, business intelligence, and data visualization projects
 * 🤔 I’m looking for help with advanced analytics use cases, performance optimization, and real-world data problems
-* 💬 Ask me about data cleaning, exploratory data analysis, Power BI reporting, SQL querying, and insight communication
-* 📫 How to reach me: LinkedIn | Email | Portfolio (add links)
+* 💬 Ask me about data analysis, turning business questions into data insights, research and physics related concepts.
+* 📫 How to reach me: +2347069079980 | [LinkedIn](https://www.linkedin.com/in/ibrahim-abdulrasaq) | [Email](ibrahimabdulrasaqademola2017@gmail.com )
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: I believe data tells stories, and great analysts make those stories easy to understand and act on.
