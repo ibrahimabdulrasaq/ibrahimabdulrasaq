@@ -3,17 +3,15 @@ A Data Analyst and Business Intelligence enthusiast with a strong passion for tr
 ‎I specialize in analyzing data, building insightful dashboards, and delivering clear, actionable insights that support informed decision-making. My work focuses on turning raw, messy data into structured analysis and compelling visual stories.
 
 ‎I have hands-on experience using:
-‎
+
 * ‎Microsoft Excel for data cleaning, analysis, and reporting
-‎
+  
 * ‎Power BI for building interactive dashboards and business reports
 
 * SQL for querying, filtering, and analyzing structured datasets
 
-
 ‎I'm continuously learning, building, and improving my analytical skills set and communication skills .
-‎
-‎
+‎‎
 ### ‎🛠️ Core Skills & Tools
 ‎
 ‎<p align="center">
@@ -56,7 +54,7 @@ A Data Analyst and Business Intelligence enthusiast with a strong passion for tr
 
 > Each project is focused on solving real-world business problems using data.
 
-> Project dashboards and screenshots are included inside individual repositories.  Explore the repositories to see how I approach data problems end-to-end.
+> Project dashboards and screenshots are included inside individual repositories.
 
 ‎⭐ **If a project adds value or sparks an idea, feel free to star the repository or reach out.**
 ‎
