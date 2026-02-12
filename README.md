@@ -2,7 +2,7 @@
 
 <!-- Profile Picture & Intro -->
 <p align="center">
-  <img src="Assets/Profile.png" alt="Abdulrasaq Ibrahim Ademola" width="150" style="border-radius: 50%; border: 4px solid #4CAF50; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);"/>
+  <img src="Assets/Profile.p.png" alt="Abdulrasaq Ibrahim Ademola" width="150" style="border-radius: 50%; border: 4px solid #4CAF50; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);"/>
 </p>
 
 <h3 align="center">Data Analyst | BI Specialist | Turning Data into Actionable Insights</h3>
