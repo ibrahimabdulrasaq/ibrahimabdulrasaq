@@ -1,14 +1,24 @@
-## Hi there 👋, I'm Ibrahim Abdulrasaq
-A Data Analyst and Business Intelligence Specialist with a strong passion for transforming raw data into meaningful insights that drive informed decision-making. I enjoy working across the entire data analytics workflow, from data cleaning and transformation to analysis, visualization, and storytelling.
-‎I specialize in analyzing data, building insightful dashboards, and delivering clear, actionable insights that support informed decision-making. My work focuses on turning raw, messy data into structured analysis and compelling visual stories.
+# Hi 👋, I'm Ibrahim Abdulrasaq
 
-‎I have hands-on experience using:
+<!-- Profile Picture & Intro -->
+<p align="center">
+  <img src="Assets/Profile.png" alt="Abdulrasaq Ibrahim Ademola" width="150" style="border-radius: 50%; border: 4px solid #4CAF50; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);"/>
+</p>
 
-* ‎Microsoft Excel for data cleaning, analysis, and reporting
-  
-* ‎Power BI for building interactive dashboards and business reports
+<h3 align="center">Data Analyst | BI Specialist | Turning Data into Actionable Insights</h3>
 
-* SQL for querying, filtering, and analyzing structured datasets
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analytics-green" />
+  <img src="https://img.shields.io/badge/Business%20Intelligence-yellow" />
+  <img src="https://img.shields.io/badge/Excel-green" />
+  <img src="https://img.shields.io/badge/Power%20BI-yellow" />
+  <img src="https://img.shields.io/badge/SQL-green" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+I’m a Data Analyst and Business Intelligence Specialist passionate about transforming raw data into actionable insights. I work across the full analytics workflow, from data cleaning and transformation to building interactive dashboards and delivering clear business recommendations.  
 
 ‎I'm continuously learning, building, and improving my analytical skills set and communication skills .
 ‎‎
