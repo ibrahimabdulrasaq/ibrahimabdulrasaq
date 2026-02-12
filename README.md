@@ -62,7 +62,7 @@ Power Query (data cleaning and transformation), Pivot Tables, Pivot Charts, Powe
 - Problem: Sales and operations teams lacked a centralized analytics solution to monitor revenue trends, customer performance, and warehouse efficiency. Raw transactional data provided limited strategic visibility, making it difficult to detect revenue risks or performance gaps early.
 - Solution: Developed an end-to-end Power BI BI solution by transforming order-line data into a scalable Star Schema model, building optimized DAX measures (MoM growth, AOV, dynamic ranking, time intelligence), and designing a three-page executive dashboard for performance, customer, and regional analysis.
 - Impact: **Enabled real-time revenue monitoring, identified a critical mid-2021 revenue decline, revealed Wholesale customers (~42%) as key revenue drivers, highlighted top-performing products and warehouses, and improved decision-making through centralized, interactive reporting.**
-- Tools& Technologies: Power BI, Power Query, DAX, Star Schema Modeling, Time Intelligence, Bookmark Navigation.
+- Tools & Technologies: Power BI, Power Query, DAX, Star Schema Modeling, Time Intelligence, Bookmark Navigation.
 
 
 > All projects solve real business problems and showcase actionable insights.
