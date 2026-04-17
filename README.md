@@ -5,7 +5,7 @@
   <img src="Assets/Ibrahim Abdulrasaq.png" alt="Abdulrasaq Ibrahim Ademola" width="150" style="border-radius: 50%; border: 4px solid #4CAF50; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);"/>
 </p>
 
-<h3 align="center">Data Analyst | BI Specialist | Turning Data into Actionable Insights</h3>
+<h3 align="center">Data Analyst | BI Analyst | Turning Data into Actionable Insights</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Analytics-green" />
@@ -18,7 +18,7 @@
 ---
 
 ### 👨‍💻 About Me
-I’m a Data Analyst and Business Intelligence Specialist passionate about transforming raw data into actionable insights. I work across the full analytics workflow, from data cleaning and transformation to building interactive dashboards and delivering clear business recommendations.  
+I’m a Data & BI Analyst passionate about transforming raw data into actionable insights. I work across the full analytics workflow, from data cleaning and transformation to building interactive dashboards and delivering clear business recommendations.  
 
 I focus on *impact over process*, helping organizations make data-driven decisions that improve efficiency, revenue, and growth.
 
@@ -27,15 +27,24 @@ I focus on *impact over process*, helping organizations make data-driven decisio
 ### 🛠️ Core Skills & Tools
 
 <p align="center">
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" />
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" />
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="50" />
+
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="50" />
+
+   <img src="https://img.icons8.com/color/48/canva.png" width="50"/>
+
 </p>
 
 - Data Analysis: Excel, SQL  
 - Business Intelligence: Power BI  
 - Data Preparation: Cleaning, Transformation, ETL  Concepts
 - Data Visualization & Storytelling KPI Dashboards, Interactive Reports, Insights Generation
+- Toools: Microsoft Excel, SQL Microsoft Power BI, Figma, Canva.
 - Soft Skills: Analytical akill, critical thinking and problem solving, attention to detail, teamwork and collaboration, adaptability and a learning mindset, time management and organization, storytelling with data, stakeholder management, and ethical awareness. ‎
 
 ---
@@ -57,6 +66,16 @@ Here are some of the projects you will find on my GitHub repositories
 - Tools: Microsoft Excel,
 Power Query (data cleaning and transformation), Pivot Tables, Pivot Charts, Power Pivot (data modeling), DAX measures, Wireframing
 & Dashboard visualization.
+
+#### 📌 Marketing Campaign Performance Analysis
+‎- Analyzed 200,000+ marketing campaign records to evaluate profitability, optimize channel performance, and improve customer acquisition efficiency.
+
+* Solution:
+  * Cleaned and transformed raw data using Power Query and conducted exploratory data analysis in Excel, enabling structured insights generation.
+  *  Designed a scalable star schema data model in Power BI to support efficient querying and analytics.
+  *  Developed DAX measures for key KPIs (ROI, CPC, profit margin, time intelligence) and built 4 interactive dashboards for performance monitoring.
+‎
+* ‎Impact: Delivered actionable insights, **identifying ROI exceeding 500%, and influenced marketing budget reallocation toward high-performing channels.**
 
 #### 📌 Sales Order Performance Analysis(End-to-end Power BI Project)
 - Problem: Sales and operations teams lacked a centralized analytics solution to monitor revenue trends, customer performance, and warehouse efficiency. Raw transactional data provided limited strategic visibility, making it difficult to detect revenue risks or performance gaps early.
@@ -86,6 +105,14 @@ Power Query (data cleaning and transformation), Pivot Tables, Pivot Charts, Powe
   <a href="https://twitter.com/Ademola_980">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
+
+<a href="https://medium.com/@IbrahimAbdulrasaq">
+    <img src="https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+
+<a href="https://dev.to/ibrahimabdulrasaq">
+    <img src="https://img.shields.io/badge/Dev-1DA1F2?style=for-the-badge&logo=dev&logoColor=white"/>
+  </a>
   
   <a href="https://wa.me/2347069079980">
     <img src="https://img.shields.io/badge/WhatsApp-Chat%20Here-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
@@ -97,6 +124,6 @@ Power Query (data cleaning and transformation), Pivot Tables, Pivot Charts, Powe
 - 🔭 Currently working on building portfolio-ready data analytics projects, improving my SQL querying and optimization skills, and strengthening my data storytelling and communication skills to deliver clear, actionable insights.
 - 👯 I’m looking to collaborate on data analytics, business intelligence, and data visualization projects
 - 🤔 Looking for help with advanced analytics use cases and performance optimization 
-- 💬 Ask me about data analysis, business insights, or research/physics topics  
+- 💬 Ask me about data analysis, business insights, research or physics related concepts 
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I believe data tells stories, and great analysts make them actionable and easy to understand.
