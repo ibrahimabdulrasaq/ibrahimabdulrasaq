@@ -68,9 +68,15 @@ Power Query (data cleaning and transformation), Pivot Tables, Pivot Charts, Powe
 & Dashboard visualization.
 
 #### 📌 Marketing Campaign Performance Analysis
-‎- Analyzed 200,000+ marketing campaign records to evaluate profitability, optimize channel performance, and improve customer acquisition efficiency.
+- Problem: Marketing teams face critical questions and need answers
+  - Is our campaign truly profitable?
+  - Which channels deliver the highest return?
+  - Are we acquiring customers efficiently?
+  - Is performance stable over time?
+  - Where should we reallocate the budget for maximum impact?
 
 * Solution:
+  * Analyzed 200,000+ marketing campaign records to evaluate profitability, optimize channel performance, and improve customer acquisition efficiency.
   * Cleaned and transformed raw data using Power Query and conducted exploratory data analysis in Excel, enabling structured insights generation.
   *  Designed a scalable star schema data model in Power BI to support efficient querying and analytics.
   *  Developed DAX measures for key KPIs (ROI, CPC, profit margin, time intelligence) and built 4 interactive dashboards for performance monitoring.
@@ -79,7 +85,7 @@ Power Query (data cleaning and transformation), Pivot Tables, Pivot Charts, Powe
 
 #### 📌 Sales Order Performance Analysis(End-to-end Power BI Project)
 - Problem: Sales and operations teams lacked a centralized analytics solution to monitor revenue trends, customer performance, and warehouse efficiency. Raw transactional data provided limited strategic visibility, making it difficult to detect revenue risks or performance gaps early.
-- Solution: Developed an end-to-end Power BI BI solution by transforming order-line data into a scalable Star Schema model, building optimized DAX measures (MoM growth, AOV, dynamic ranking, time intelligence), and designing a three-page executive dashboard for performance, customer, and regional analysis.
+- Solution: Developed an end-to-end Power BI solution by transforming order-line data into a scalable Star Schema model, building optimized DAX measures (MoM growth, AOV, dynamic ranking, time intelligence), and designing a three-page executive dashboard for performance, customer, and regional analysis.
 - Impact: **Enabled real-time revenue monitoring, identified a critical mid-2021 revenue decline, revealed Wholesale customers (~42%) as key revenue drivers, highlighted top-performing products and warehouses, and improved decision-making through centralized, interactive reporting.**
 - Tools & Technologies: Power BI, Power Query, DAX, Star Schema Modeling, Time Intelligence, Bookmark Navigation.
 
