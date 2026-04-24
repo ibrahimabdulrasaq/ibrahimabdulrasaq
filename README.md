@@ -33,6 +33,8 @@ I focus on *impact over process*, helping organizations make data-driven decisio
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" />
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="50" />
+  
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="50" />
 
   <img src="https://cdn.simpleicons.org/figma/F24E1E" width="50" />
 
@@ -44,8 +46,8 @@ I focus on *impact over process*, helping organizations make data-driven decisio
 - Business Intelligence: Power BI  
 - Data Preparation: Cleaning, Transformation, ETL  Concepts
 - Data Visualization & Storytelling KPI Dashboards, Interactive Reports, Insights Generation
-- Toools: Microsoft Excel, SQL Microsoft Power BI, Figma, Canva.
-- Soft Skills: Analytical akill, critical thinking and problem solving, attention to detail, teamwork and collaboration, adaptability and a learning mindset, time management and organization, storytelling with data, stakeholder management, and ethical awareness. ‎
+- Tool Stack: Microsoft Excel, SQL, Microsoft Power BI, Microsoft PowerPoint, Figma, Canva.
+- Soft Skills: Analytical ability, critical thinking and problem solving, attention to detail, teamwork and collaboration, adaptability and a learning mindset, time management and organization, storytelling with data, stakeholder management, and ethical awareness. ‎
 
 ---
 
@@ -99,6 +101,7 @@ Power Query (data cleaning and transformation), Pivot Tables, Pivot Charts, Powe
 ---
 
 ### 🤝 Let's Connect
+
 <p align="center">
   <a href="mailto: ibrahimabdulrasaq@novypro.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -130,6 +133,6 @@ Power Query (data cleaning and transformation), Pivot Tables, Pivot Charts, Powe
 - 🔭 Currently working on building portfolio-ready data analytics projects, improving my SQL querying and optimization skills, and strengthening my data storytelling and communication skills to deliver clear, actionable insights.
 - 👯 I’m looking to collaborate on data analytics, business intelligence, and data visualization projects
 - 🤔 Looking for help with advanced analytics use cases and performance optimization 
-- 💬 Ask me about data analysis, business insights, research or physics related concepts 
+- 💬 Ask me about data analysis, business insights, research, or physics-related concepts 
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I believe data tells stories, and great analysts make them actionable and easy to understand.
