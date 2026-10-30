@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Excel-green" />
   <img src="https://img.shields.io/badge/Power%20BI-yellow" />
   <img src="https://img.shields.io/badge/SQL-green" />
+    <img src="https://img.shields.io/badge/AI%20Automation-yellow" />
 </p>
 
 ---
@@ -20,27 +21,11 @@
 ### 👨‍💻 About Me
 I’m a Data & BI Analyst passionate about transforming raw data into actionable insights. I work across the full analytics workflow, from data cleaning and transformation to building interactive dashboards and delivering clear business recommendations.  
 
-Beyond data analytics, I'm currently exploring AI automation. My goal is to combine data analytics, business intelligence, and automation to help businesses make informed decisions, improve processes, and work more efficiently.
+Beyond data analytics, I'm currently expanding into AI automation. My goal is to combine data analytics, business intelligence, and automation to help businesses make informed decisions, improve processes, and work more efficiently.
 
 ---
 
 ### 🛠️ Core Skills & Tools
-
-<p align="center">
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" />
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" />
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="50" />
-  
-  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="50" />
-
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="50" />
-
-   <img src="https://img.icons8.com/color/48/canva.png" width="50"/>
-
-</p>
 
 - Data Analysis: Excel, SQL  
 - Business Intelligence: Power BI  
