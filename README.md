@@ -20,7 +20,7 @@
 ### 👨‍💻 About Me
 I’m a Data & BI Analyst passionate about transforming raw data into actionable insights. I work across the full analytics workflow, from data cleaning and transformation to building interactive dashboards and delivering clear business recommendations.  
 
-I focus on *impact over process*, helping organizations make data-driven decisions that improve efficiency, revenue, and growth.
+Beyond data analytics, I'm currently exploring AI automation. My goal is to combine data analytics, business intelligence, and automation to help businesses make informed decisions, improve processes, and work more efficiently.
 
 ---
 
@@ -46,7 +46,7 @@ I focus on *impact over process*, helping organizations make data-driven decisio
 - Business Intelligence: Power BI  
 - Data Preparation: Cleaning, Transformation, ETL  Concepts
 - Data Visualization & Storytelling KPI Dashboards, Interactive Reports, Insights Generation
-- Tool Stack: Microsoft Excel, SQL, Microsoft Power BI, Microsoft PowerPoint, Figma, Canva.
+- Tool Stack: Microsoft Excel, SQL, Microsoft Power BI, Microsoft PowerPoint, Figma, Canva, n8n, AI Tools.
 - Soft Skills: Analytical ability, critical thinking and problem solving, attention to detail, teamwork and collaboration, adaptability and a learning mindset, time management and organization, storytelling with data, stakeholder management, and ethical awareness. ‎
 
 ---
@@ -127,12 +127,3 @@ Power Query (data cleaning and transformation), Pivot Tables, Pivot Charts, Powe
     <img src="https://img.shields.io/badge/WhatsApp-Chat%20Here-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
-
-‎Things to know about me:
-
-- 🔭 Currently working on building portfolio-ready data analytics projects, improving my SQL querying and optimization skills, and strengthening my data storytelling and communication skills to deliver clear, actionable insights.
-- 👯 I’m looking to collaborate on data analytics, business intelligence, and data visualization projects
-- 🤔 Looking for help with advanced analytics use cases and performance optimization 
-- 💬 Ask me about data analysis, business insights, research, or physics-related concepts 
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I believe data tells stories, and great analysts make them actionable and easy to understand.
