@@ -5,7 +5,7 @@
   <img src="Assets/Ibrahim Abdulrasaq.png" alt="Abdulrasaq Ibrahim Ademola" width="150" style="border-radius: 50%; border: 4px solid #4CAF50; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);"/>
 </p>
 
-<h3 align="center">Data Analyst | BI Analyst | Turning Data into Actionable Insights</h3>
+<h3 align="center">Data Analyst | BI Analyst | AI Automation & Workflow Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Analytics-green" />
